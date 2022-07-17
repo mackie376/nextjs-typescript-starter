@@ -18,7 +18,21 @@
     "url": "https://github.com/mackie376/nextjs-typescript-starter/issues",
     "email": "mackie@beehive-dev.com"
   },
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
+  "scripts": {
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.5",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
 }
