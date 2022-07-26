@@ -8,12 +8,12 @@ npx create-next-app --example https://github.com/mackie376/nextjs-typescript-sta
 
 ## 使用しているパッケージ
 
-- next (12.2.2)
+- next (12.2.3)
 - react (18.2.0)
 - react-dom (18.2.0)
-- @mui/material (5.8.4)
-- @mui/icons-material (5.9.0)
-- @babel/core (7.18.6)
+- @mui/material (5.9.2)
+- @mui/icons-material (5.8.4)
+- @babel/core (7.18.9)
 - @emotion/react (11.9.3)
 - @emotion/cache (11.9.3)
 - @emotion/server (11.4.0)
